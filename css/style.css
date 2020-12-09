@@ -511,7 +511,7 @@ padding: .6em .8em .5em 1.4em;
     color: #333333;
 }
 
-.advantages-list-item.adv-1 p {
+.advantages-list-item.av-1 p {
     color: #333333;
     background: url(../img/adv1.svg);
     background-size: 65px;
@@ -519,7 +519,7 @@ padding: .6em .8em .5em 1.4em;
     background-position-y: 22px;
 }
 
-.advantages-list-item.adv-2 p {
+.advantages-list-item.av-2 p {
     color: #333333;
     background: url(../img/adv2.svg);
     background-size: 65px;
@@ -527,7 +527,7 @@ padding: .6em .8em .5em 1.4em;
     background-position-y: 22px;
 }
 
-.advantages-list-item.adv-3 p {
+.advantages-list-item.av-3 p {
     color: #333333;
     background: url(../img/adv3.svg);
     background-size: 65px;
@@ -535,7 +535,7 @@ padding: .6em .8em .5em 1.4em;
     background-position-y: 22px;
 }
 
-.advantages-list-item.adv-4 p {
+.advantages-list-item.av-4 p {
     color: #333333;
     background: url(../img/adv4.svg);
     background-size: 65px;
@@ -543,7 +543,7 @@ padding: .6em .8em .5em 1.4em;
     background-position-y: 22px;
 }
 
-.advantages-list-item.adv-5 p {
+.advantages-list-item.av-5 p {
     color: #333333;
     background: url(../img/adv5.svg);
     background-size: 65px;
@@ -551,7 +551,7 @@ padding: .6em .8em .5em 1.4em;
     background-position-y: 22px;
 }
 
-.advantages-list-item.adv-6 p {
+.advantages-list-item.av-6 p {
     color: #333333;
     background: url(../img/adv6.svg);
     background-size: 65px;
@@ -559,7 +559,7 @@ padding: .6em .8em .5em 1.4em;
     background-position-y: 22px;
 }
 
-.advantages-list-item.adv-7 p {
+.advantages-list-item.av-7 p {
     color: #333333;
     background: url(../img/adv7.svg);
     background-size: 65px;
@@ -567,7 +567,7 @@ padding: .6em .8em .5em 1.4em;
     background-position-y: 22px;
 }
 
-.advantages-list-item.adv-8 p {
+.advantages-list-item.av-8 p {
     color: #333333;
     background: url(../img/adv8.svg);
     background-size: 65px;
